@@ -42,7 +42,7 @@ Turtle is Default Package of python.
 [twitter]: https://twitter.com/imdarkcoder
 [youtube]: https://www.youtube.com/channel/UCn6rJnrjdETlODG38BecyGA
 [instagram]: https://instagram.com/imdarkcoder
-[linkedin]: https://linkedin.com/in/imdarkcoder
+[linkedin]: https://www.linkedin.com/in/abhishek-patel-7333a11b8
 [webdevplaylist]: https://www.youtube.com/channel/UCn6rJnrjdETlODG38BecyGA
 
 ---
